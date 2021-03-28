@@ -1,2 +1,2 @@
 # console-2048
-A console 2048 game in java.
+A simple console 2048 game in java using a 2d array.
